@@ -29,6 +29,14 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+<div style="text-align: center;">
+  <img style="padding: 10px;" src="https://github.com/DhanushAdithiya/StyleTransfer/assets/84760124/fde6c7e1-9eb5-4557-8196-7dd6c0d72d66" alt="Image 1">
+  <img style="padding: 10px;" src="https://github.com/DhanushAdithiya/StyleTransfer/assets/84760124/dd4ce706-569d-4ff1-83b2-0a05fdfcbf0b" alt="Image 2">
+</div>
+
+
+
 This project implements neural style transfer, allowing you to apply the artistic style of one image (style image) to the content of another image (content image). The model is based on the paper titled <a href="https://arxiv.org/abs/1508.06576">A Neural Algorithm of Artistic Style</a> by *Leon A. Gatys, Alexander S. Ecker, Matthias Bethge*
 
 Features:
