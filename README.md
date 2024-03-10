@@ -58,11 +58,11 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+These are the prerequisites in order to run the project.
 
 * <a href="https://www.python.org/downloads/release/python-390/">Python 3.9</a>
 * <a href="https://docs.anaconda.com/free/anaconda/install/linux/">Conda Enviroment</a>
